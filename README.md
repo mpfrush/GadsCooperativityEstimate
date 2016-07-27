@@ -8,6 +8,6 @@ Files:
 
 1. A description of the computational model is in Comp Model.pdf file.
 2.  
-- GadsCooperativityEstimateProgram.ipynb is Python code.
-- GadsCooperativityEstimateProgram.pdf is PDF printed code.
-- GadsCooperativityEstimateProgram.html is HTML version of code.
+  - GadsCooperativityEstimateProgram.ipynb is Python code.
+  - GadsCooperativityEstimateProgram.pdf is PDF printed code.
+  - GadsCooperativityEstimateProgram.html is HTML version of code.
