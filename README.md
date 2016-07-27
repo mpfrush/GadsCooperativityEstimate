@@ -7,7 +7,7 @@ The program uses the multivariate Ordinary Least Square (OLS) to estimate kineti
 Files: 
 
 1. A description of the computational model is in Comp Model.pdf file.
-2.  
+2.  Program Code: 
   - GadsCooperativityEstimateProgram.ipynb is Python code.
   - GadsCooperativityEstimateProgram.pdf is PDF printed code.
   - GadsCooperativityEstimateProgram.html is HTML version of code.
