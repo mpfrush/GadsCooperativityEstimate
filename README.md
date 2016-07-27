@@ -4,7 +4,7 @@
      Broyden-Fletcher-Goldfarb-Shanno) algorithm to optimize the RSS and kinetic parameters. The program is written in Python 2.7. 
 
 Files: 
-  1) a description of the computational model is in Comp Model.pdf file
-  2) GadsCooperativityEstimateProgram.ipynb is Python code
+  *1) a description of the computational model is in Comp Model.pdf file
+  *2) GadsCooperativityEstimateProgram.ipynb is Python code
      GadsCooperativityEstimateProgram.pdf is PDF printed code
      GadsCooperativityEstimateProgram.html is HTML version of code
