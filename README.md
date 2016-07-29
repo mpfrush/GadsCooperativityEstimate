@@ -10,4 +10,3 @@ Files:
 2.  Program Code: 
   - GadsCooperativityEstimateProgram.ipynb is Python code.
   - GadsCooperativityEstimateProgram.pdf is PDF printed code.
-  - GadsCooperativityEstimateProgram.html is HTML version of code.
